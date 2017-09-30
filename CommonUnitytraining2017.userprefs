@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/UIControllervol2.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ObstacleController.cs" Line="6" Column="24" />
+      <File FileName="Assets/Scripts/UIControllervol2.cs" Line="9" Column="3" />
+      <File FileName="Assets/Scripts/UIController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="9" Column="17" />
+      <File FileName="Assets/Scripts/GoalController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/FollowPlayer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/azabu01/CommonUnitytraining2017/Assets/FollowPlayer.cs" line="11" column="10" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
